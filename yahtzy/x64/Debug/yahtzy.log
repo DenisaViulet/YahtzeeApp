@@ -1,0 +1,30 @@
+﻿  Board.cpp
+  class template optional is only available with C++17 or later.
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(11,22): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(11,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(14,22): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(14,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(17,22): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(17,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(20,22): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(20,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(23,22): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(23,15): warning C4553: '==': result of expression not used; did you intend '='?
+  Game.cpp
+  class template optional is only available with C++17 or later.
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Game.cpp(59,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Game.cpp(127,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Game.cpp(132,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Game.cpp(142,5): warning C4551: function call missing argument list
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Game.cpp(165,10): warning C4551: function call missing argument list
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Game.cpp(186,11): warning C4551: function call missing argument list
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Game.cpp(360,8): warning C4551: function call missing argument list
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Game.cpp(382,9): warning C4551: function call missing argument list
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Game.cpp(347,10): warning C4101: 'function': unreferenced local variable
+  Player.cpp
+  class template optional is only available with C++17 or later.
+  Source.cpp
+  class template optional is only available with C++17 or later.
+  Generating Code...
+C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\yahtzy\Board.cpp(210): warning C4715: 'Board::FullHouse': not all control paths return a value
+  yahtzy.vcxproj -> C:\Users\Denisa\Downloads\smcyachtzee-yahtzee-839ff7213b80\smcyachtzee-yahtzee-839ff7213b80\x64\Debug\yahtzy.exe
